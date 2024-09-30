@@ -1,0 +1,24 @@
+[submodule "project_service"]
+	path = project_service
+	url = https://github.com/cirill98/project_service.git
+[submodule "post_service"]
+	path = post_service
+	url = https://github.com/cirill98/post_service.git
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/cirill98/user_service.git
+[submodule "achievement_service"]
+	path = achievement_service
+	url = https://github.com/cirill98/achievement_service.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/cirill98/infra.git
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/cirill98/account_service.git
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/cirill98/notification_service.git
+[submodule "analytics_service"]
+	path = analytics_service
+	url = https://github.com/cirill98/analytics_service.git
